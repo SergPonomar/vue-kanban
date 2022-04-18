@@ -3,7 +3,7 @@
 Simple Drag&Drop application made with vue 3
 
 - Vite 2
-- Vue 3
+- Vue 3 Composition API
 - Pinia 2
 
-###[DEMO](https://sergponomar.github.io "Demo app")
+[DEMO](https://sergponomar.github.io "Demo app")
